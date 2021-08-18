@@ -1,6 +1,6 @@
 # Game Name
 
-_Img about game_
+Dino Game
 
 ## Description 🚀
 
@@ -73,5 +73,4 @@ class Game(){
 
 - Start
 - Loose
-- Win? xd
 
