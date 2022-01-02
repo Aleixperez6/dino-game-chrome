@@ -2,6 +2,8 @@
 
 Dino Game
 
+Play => [dinoGame](https://aleixperez6.github.io/dino-game-chrome/)
+
 ## Description 🚀
 
 The player controls the Dinosaur who have to dodge obstacles and takes the coins. The dinosaur can jump and crouch for continue. 
